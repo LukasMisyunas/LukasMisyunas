@@ -13,10 +13,7 @@
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/aboutdotme.svg" width="20" height="20" style="filter: invert(1);" alt="" />
-  About Me
-</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">I'm a <b>13-year-old Python developer</b> from Tomsk, Russia. My goal is to become an <b>ML/AI engineer</b> and pursue a <b>PhD in the USA</b>.</p>
 
@@ -29,28 +26,22 @@
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="20" height="20" style="filter: invert(1);" alt="" />
-  Tech Stack
-</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" style="filter: invert(1);" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="48" height="48" style="filter: invert(1);" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" height="48" style="filter: invert(1);" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" width="48" height="48" style="filter: invert(1);" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" width="48" height="48" style="filter: invert(1);" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="48" height="48" style="filter: invert(1);" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="48" height="48" style="filter: invert(1);" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="48" height="48" style="filter: invert(1);" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="48" height="48" alt="Python" />
+  <img src="https://cdn.simpleicons.org/git/FFFFFF" width="48" height="48" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/FFFFFF" width="48" height="48" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/sqlite/FFFFFF" width="48" height="48" alt="SQLite" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/FFFFFF" width="48" height="48" alt="VS Code" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="20" height="20" style="filter: invert(1);" alt="" />
-  Featured Projects
-</h3>
+<h3 align="center">Featured Projects</h3>
 
 <table align="center">
   <tr>
@@ -73,10 +64,7 @@
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/trophy.svg" width="20" height="20" style="filter: invert(1);" alt="" />
-  Achievements
-</h3>
+<h3 align="center">Achievements</h3>
 
 <p align="center"><b>First commercial client at age 13</b> — developed a Telegram catalog bot for a real business.</p>
 <p align="center"><b>Top 1 student</b> in Python course at Rubius Academy — <a href="https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg">View certificate</a></p>
@@ -84,10 +72,7 @@
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg" width="20" height="20" style="filter: invert(1);" alt="" />
-  Goals
-</h3>
+<h3 align="center">Goals</h3>
 
 <p align="center">Graduate from NSU (Novosibirsk State University) with a degree in Applied Mathematics and Computer Science</p>
 <p align="center">Get accepted to a PhD program in the USA (AI/ML)</p>
@@ -95,10 +80,7 @@
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/telegram.svg" width="20" height="20" style="filter: invert(1);" alt="" />
-  Contact Me
-</h3>
+<h3 align="center">Contact Me</h3>
 
 <p align="center">
   <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-@LMDigital1-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" /></a>
