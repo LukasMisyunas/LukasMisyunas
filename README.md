@@ -14,7 +14,7 @@
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/aboutdotme.svg" width="20" height="20" alt="" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/aboutdotme.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   About Me
 </h3>
 
@@ -28,25 +28,25 @@ Currently focused on:
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="20" height="20" alt="" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Tech Stack
 </h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="48" height="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" width="48" height="48" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" width="48" height="48" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="48" height="48" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="48" height="48" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" style="filter: invert(1);" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="48" height="48" style="filter: invert(1);" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" height="48" style="filter: invert(1);" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" width="48" height="48" style="filter: invert(1);" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" width="48" height="48" style="filter: invert(1);" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="48" height="48" style="filter: invert(1);" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="48" height="48" style="filter: invert(1);" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="48" height="48" style="filter: invert(1);" alt="VS Code" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="20" height="20" alt="" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Featured Projects
 </h3>
 
@@ -72,7 +72,7 @@ Currently focused on:
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/trophy.svg" width="20" height="20" alt="" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/trophy.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Achievements
 </h3>
 
@@ -83,7 +83,7 @@ Currently focused on:
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg" width="20" height="20" alt="" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Goals
 </h3>
 
@@ -94,7 +94,7 @@ Currently focused on:
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/telegram.svg" width="20" height="20" alt="" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/telegram.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Contact Me
 </h3>
 
