@@ -44,4 +44,4 @@ A research-driven Telegram bot that analyzes voice messages, detects silence, vi
 
 - **Telegram:** @LMDigital1
 - **Email:** freticx@email.com
-- **Phone number:** 8(923)435-44-74 
+- **Phone number:** 8(923)435-44-74  
