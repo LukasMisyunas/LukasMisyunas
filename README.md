@@ -14,7 +14,7 @@
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/user.svg" width="20" height="20" style="vertical-align: middle;" alt="" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/user.png" width="20" height="20" alt="" />
   About Me
 </h3>
 
@@ -30,7 +30,7 @@
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/code.svg" width="20" height="20" style="vertical-align: middle;" alt="" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/source-code.png" width="20" height="20" alt="" />
   Tech Stack
 </h3>
 
@@ -48,7 +48,7 @@
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/folder.svg" width="20" height="20" style="vertical-align: middle;" alt="" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/folder-invoices.png" width="20" height="20" alt="" />
   Featured Projects
 </h3>
 
@@ -74,7 +74,7 @@
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/trophy.svg" width="20" height="20" style="vertical-align: middle;" alt="" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/trophy.png" width="20" height="20" alt="" />
   Achievements
 </h3>
 
@@ -85,7 +85,7 @@
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/target.svg" width="20" height="20" style="vertical-align: middle;" alt="" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/target.png" width="20" height="20" alt="" />
   Goals
 </h3>
 
@@ -96,7 +96,7 @@
 <img src="./assets/divider.svg" width="100%" height="2" />
 
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/mail.svg" width="20" height="20" style="vertical-align: middle;" alt="" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/mail.png" width="20" height="20" alt="" />
   Contact Me
 </h3>
 
