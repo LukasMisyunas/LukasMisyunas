@@ -11,7 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" />
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ### 🎯 About Me
 
@@ -22,7 +22,7 @@ Currently focused on:
 - 🤖 Building real projects for clients
 - 📐 Mastering mathematics for future ML research
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ### 🛠️ Tech Stack
 
@@ -30,7 +30,7 @@ Currently focused on:
   <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,sqlite,vscode" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-94a1-a98c8b0a1c4c.gif" width="100%" />
 
 ### 🚀 Featured Projects
 
@@ -53,7 +53,7 @@ Currently focused on:
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 ### 🏆 Achievements
 
@@ -61,7 +61,7 @@ Currently focused on:
 - **Top 1 student** in Python course at Rubius Academy — [View certificate](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)
 - **Completed a 9-month Python Pro course** at Rubius Academy with a final project.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" />
 
 ### 📊 GitHub Stats
 
@@ -86,7 +86,7 @@ Currently focused on:
   </picture>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ### 🐍 Contribution Snake
 
@@ -98,7 +98,7 @@ Currently focused on:
   </picture>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ### 🎯 Goals
 
@@ -106,7 +106,7 @@ Currently focused on:
 - Get accepted to a PhD program in the USA (AI/ML)
 - Work remotely as an ML engineer
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-94a1-a98c8b0a1c4c.gif" width="100%" />
 
 ### 📫 Contact Me
 
@@ -115,7 +115,7 @@ Currently focused on:
   <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-lukas.misyunas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 <p align="center">
   <i>"Concentration and the ability to cut out unnecessary noise are critically important for achieving outstanding results and creativity." — Pavel Durov</i>
