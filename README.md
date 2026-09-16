@@ -25,14 +25,14 @@ Currently focused on:
 ### Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="48" height="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" width="48" height="48" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" width="48" height="48" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="48" height="48" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="48" height="48" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Python" />
+  <img src="https://cdn.simpleicons.org/git/white" width="48" height="48" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/white" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/html5/white" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/white" width="48" height="48" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/white" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/sqlite/white" width="48" height="48" alt="SQLite" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/white" width="48" height="48" alt="VS Code" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
