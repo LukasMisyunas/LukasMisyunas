@@ -13,7 +13,10 @@
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-### About Me
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/aboutdotme.svg" width="20" height="20" alt="" />
+  About Me
+</h3>
 
 I'm a **13-year-old Python developer** from Tomsk, Russia. My goal is to become an **ML/AI engineer** and pursue a **PhD in the USA**.
 
@@ -24,22 +27,28 @@ Currently focused on:
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-### Tech Stack
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="20" height="20" alt="" />
+  Tech Stack
+</h3>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="48" height="48" alt="Python" />
-  <img src="https://cdn.simpleicons.org/git/FFFFFF" width="48" height="48" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="48" height="48" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/FFFFFF" width="48" height="48" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/sqlite/FFFFFF" width="48" height="48" alt="SQLite" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/FFFFFF" width="48" height="48" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="48" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" width="48" height="48" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="48" height="48" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="48" height="48" alt="VS Code" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-### Featured Projects
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="20" height="20" alt="" />
+  Featured Projects
+</h3>
 
 <table>
   <tr>
@@ -62,7 +71,10 @@ Currently focused on:
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-### Achievements
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/trophy.svg" width="20" height="20" alt="" />
+  Achievements
+</h3>
 
 - **First commercial client at age 13** — developed a Telegram catalog bot for a real business.
 - **Top 1 student** in Python course at Rubius Academy — [View certificate](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)
@@ -70,44 +82,10 @@ Currently focused on:
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-### GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=graywhite&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=graywhite&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=graywhite&hide_border=true" height="150" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=graywhite&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=graywhite&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=graywhite&hide_border=true" height="150" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=graywhite&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=graywhite&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=graywhite&hide_border=true" height="150" />
-  </picture>
-</p>
-
-<img src="./assets/divider.svg" width="100%" height="2" />
-
-### Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/твой_ник/твой_ник/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/твой_ник/твой_ник/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/твой_ник/твой_ник/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </picture>
-</p>
-
-<img src="./assets/divider.svg" width="100%" height="2" />
-
-### Goals
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg" width="20" height="20" alt="" />
+  Goals
+</h3>
 
 - Graduate from NSU (Novosibirsk State University) with a degree in Applied Mathematics and Computer Science
 - Get accepted to a PhD program in the USA (AI/ML)
@@ -115,7 +93,10 @@ Currently focused on:
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-### Contact Me
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/telegram.svg" width="20" height="20" alt="" />
+  Contact Me
+</h3>
 
 <p align="center">
   <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-@LMDigital1-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" /></a>
@@ -129,7 +110,7 @@ Currently focused on:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=твой_ник&label=Profile%20views&color=FFFFFF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LukasMisyunas&label=Profile%20views&color=FFFFFF&style=flat" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=120&section=footer" width="100%" />
