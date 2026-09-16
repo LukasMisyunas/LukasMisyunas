@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lukas 👋</h1>
+<h1 align="center">Lukas Misyunas</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Python+Developer;Future+ML+Engineer;Backend+Enthusiast;13+years+old" alt="Typing SVG" />
@@ -8,6 +8,8 @@
   <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ---
 
@@ -24,17 +26,9 @@ Currently focused on:
 
 ### 🛠️ Tech Stack
 
-**Backend & Bots:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Frontend & Tools:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,sqlite,vscode&theme=dark" />
+</p>
 
 ---
 
@@ -108,9 +102,11 @@ Currently focused on:
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
+  <i>"Concentration and the ability to cut out unnecessary noise are critically important for achieving outstanding results and creativity." — Pavel Durov</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=твой_ник&label=Profile%20views&color=2E9EF7&style=flat" alt="Profile views" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
