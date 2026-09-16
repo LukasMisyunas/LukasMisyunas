@@ -36,7 +36,7 @@ A research-driven Telegram bot that analyzes voice messages, detects silence, vi
 - First commercial client at age 13
 - [View project](link)
 - Completed a 9-month course Rubius
-- [![Certificate](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)
+- [View certificate](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)
 
 ---
 
