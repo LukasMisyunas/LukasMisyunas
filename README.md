@@ -13,21 +13,23 @@
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3>
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/aboutdotme.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   About Me
 </h3>
 
-I'm a **13-year-old Python developer** from Tomsk, Russia. My goal is to become an **ML/AI engineer** and pursue a **PhD in the USA**.
+<p align="center">I'm a <b>13-year-old Python developer</b> from Tomsk, Russia. My goal is to become an <b>ML/AI engineer</b> and pursue a <b>PhD in the USA</b>.</p>
 
-Currently focused on:
-- Deepening my Python skills (async, algorithms, backend)
-- Building real projects for clients
-- Mastering mathematics for future ML research
+<p align="center">Currently focused on:</p>
+<p align="center">
+  — Deepening my Python skills (async, algorithms, backend)<br/>
+  — Building real projects for clients<br/>
+  — Mastering mathematics for future ML research
+</p>
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3>
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Tech Stack
 </h3>
@@ -45,22 +47,22 @@ Currently focused on:
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3>
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Featured Projects
 </h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">MagicHerbs Bot</h3>
+      <h4 align="center">MagicHerbs Bot</h4>
       <p align="center">A full-stack e-commerce Telegram Mini App for a natural supplements brand — catalog, orders, and payments.</p>
       <p align="center">
         <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logoColor=black" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Voice Spectrogram Research</h3>
+      <h4 align="center">Voice Spectrogram Research</h4>
       <p align="center">A research-driven bot that analyzes voice messages, detects silence, and visualizes vocal spectra for a vocal school.</p>
       <p align="center">
         <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logoColor=black" /></a>
@@ -71,29 +73,29 @@ Currently focused on:
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3>
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/trophy.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Achievements
 </h3>
 
-- **First commercial client at age 13** — developed a Telegram catalog bot for a real business.
-- **Top 1 student** in Python course at Rubius Academy — [View certificate](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)
-- **Completed a 9-month Python Pro course** at Rubius Academy with a final project.
+<p align="center"><b>First commercial client at age 13</b> — developed a Telegram catalog bot for a real business.</p>
+<p align="center"><b>Top 1 student</b> in Python course at Rubius Academy — <a href="https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg">View certificate</a></p>
+<p align="center"><b>Completed a 9-month Python Pro course</b> at Rubius Academy with a final project.</p>
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3>
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Goals
 </h3>
 
-- Graduate from NSU (Novosibirsk State University) with a degree in Applied Mathematics and Computer Science
-- Get accepted to a PhD program in the USA (AI/ML)
-- Work remotely as an ML engineer
+<p align="center">Graduate from NSU (Novosibirsk State University) with a degree in Applied Mathematics and Computer Science</p>
+<p align="center">Get accepted to a PhD program in the USA (AI/ML)</p>
+<p align="center">Work remotely as an ML engineer</p>
 
 <img src="./assets/divider.svg" width="100%" height="2" />
 
-<h3>
+<h3 align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/telegram.svg" width="20" height="20" style="filter: invert(1);" alt="" />
   Contact Me
 </h3>
