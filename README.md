@@ -9,13 +9,13 @@
   <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" />
 
 ---
 
 ### 🎯 About Me
 
-I'm a 13-year-old Python developer from Tomsk, Russia. My goal is to become an **ML/AI engineer** and pursue a **PhD in the USA**.
+I'm a **13-year-old Python developer** from Tomsk, Russia. My goal is to become an **ML/AI engineer** and pursue a **PhD in the USA**.
 
 Currently focused on:
 - 🐍 Deepening my Python skills (async, algorithms, backend)
@@ -27,7 +27,7 @@ Currently focused on:
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,sqlite,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,sqlite,vscode" />
 </p>
 
 ---
@@ -66,12 +66,24 @@ Currently focused on:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=tokyonight&hide_border=true" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=tokyonight&hide_border=true" height="150" />
+  </picture>
 </p>
 
 ---
@@ -79,7 +91,11 @@ Currently focused on:
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/твой_ник/твой_ник/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/твой_ник/твой_ник/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/твой_ник/твой_ник/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/твой_ник/твой_ник/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
@@ -109,4 +125,4 @@ Currently focused on:
   <img src="https://komarev.com/ghpvc/?username=твой_ник&label=Profile%20views&color=2E9EF7&style=flat" alt="Profile views" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
