@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" /></a>
+  <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=120&section=header" width="100%" />
 
 ### About Me
 
@@ -20,22 +20,22 @@ Currently focused on:
 - Building real projects for clients
 - Mastering mathematics for future ML research
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=80&section=header" width="100%" />
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/white" width="48" height="48" alt="Python" />
-  <img src="https://cdn.simpleicons.org/git/white" width="48" height="48" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/white" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/html5/white" width="48" height="48" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/white" width="48" height="48" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/white" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/sqlite/white" width="48" height="48" alt="SQLite" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/white" width="48" height="48" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="48" height="48" alt="Python" />
+  <img src="https://cdn.simpleicons.org/git/FFFFFF" width="48" height="48" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/FFFFFF" width="48" height="48" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/sqlite/FFFFFF" width="48" height="48" alt="SQLite" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/FFFFFF" width="48" height="48" alt="VS Code" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=80&section=header" width="100%" />
 
 ### Featured Projects
 
@@ -45,20 +45,20 @@ Currently focused on:
       <h3 align="center">MagicHerbs Bot</h3>
       <p align="center">A full-stack e-commerce Telegram Mini App for a natural supplements brand — catalog, orders, and payments.</p>
       <p align="center">
-        <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" /></a>
+        <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logoColor=black" /></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">Voice Spectrogram Research</h3>
       <p align="center">A research-driven bot that analyzes voice messages, detects silence, and visualizes vocal spectra for a vocal school.</p>
       <p align="center">
-        <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" /></a>
+        <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logoColor=black" /></a>
       </p>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=80&section=header" width="100%" />
 
 ### Achievements
 
@@ -66,7 +66,7 @@ Currently focused on:
 - **Top 1 student** in Python course at Rubius Academy — [View certificate](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)
 - **Completed a 9-month Python Pro course** at Rubius Academy with a final project.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=80&section=header" width="100%" />
 
 ### GitHub Stats
 
@@ -91,7 +91,7 @@ Currently focused on:
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=80&section=header" width="100%" />
 
 ### Contribution Snake
 
@@ -103,7 +103,7 @@ Currently focused on:
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=80&section=header" width="100%" />
 
 ### Goals
 
@@ -111,23 +111,23 @@ Currently focused on:
 - Get accepted to a PhD program in the USA (AI/ML)
 - Work remotely as an ML engineer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=80&section=header" width="100%" />
 
 ### Contact Me
 
 <p align="center">
-  <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-@LMDigital1-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-lukas.misyunas@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-@LMDigital1-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" /></a>
+  <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-lukas.misyunas@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=80&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=80&section=header" width="100%" />
 
 <p align="center">
   <i>"Concentration and the ability to cut out unnecessary noise are critically important for achieving outstanding results and creativity." — Pavel Durov</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=твой_ник&label=Profile%20views&color=000000&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=твой_ник&label=Profile%20views&color=FFFFFF&style=flat" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=120&section=footer" width="100%" />
