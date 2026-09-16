@@ -11,7 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=120&section=header" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ### About Me
 
@@ -22,7 +22,7 @@ Currently focused on:
 - Building real projects for clients
 - Mastering mathematics for future ML research
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ### Tech Stack
 
@@ -37,7 +37,7 @@ Currently focused on:
   <img src="https://cdn.simpleicons.org/visualstudiocode/FFFFFF" width="48" height="48" alt="VS Code" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ### Featured Projects
 
@@ -60,7 +60,7 @@ Currently focused on:
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ### Achievements
 
@@ -68,7 +68,7 @@ Currently focused on:
 - **Top 1 student** in Python course at Rubius Academy — [View certificate](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)
 - **Completed a 9-month Python Pro course** at Rubius Academy with a final project.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ### GitHub Stats
 
@@ -93,7 +93,7 @@ Currently focused on:
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ### Contribution Snake
 
@@ -105,7 +105,7 @@ Currently focused on:
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ### Goals
 
@@ -113,7 +113,7 @@ Currently focused on:
 - Get accepted to a PhD program in the USA (AI/ML)
 - Work remotely as an ML engineer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 ### Contact Me
 
@@ -122,7 +122,7 @@ Currently focused on:
   <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-lukas.misyunas@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=3&section=header&animation=blinking" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
 
 <p align="center">
   <i>"Concentration and the ability to cut out unnecessary noise are critically important for achieving outstanding results and creativity." — Pavel Durov</i>
