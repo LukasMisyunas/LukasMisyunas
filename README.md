@@ -11,18 +11,18 @@
 
 ---
 
-### 🎯 About Me
+### ◎ About Me
 
 I'm a **13-year-old Python developer** from Tomsk, Russia. My goal is to become an **ML/AI engineer** and pursue a **PhD in the USA**.
 
 Currently focused on:
-- 🐍 Deepening my Python skills (async, algorithms, backend)
-- 🤖 Building real projects for clients
-- 📐 Mastering mathematics for future ML research
+- ∿ Deepening my Python skills (async, algorithms, backend)
+- ⚙ Building real projects for clients
+- ▤ Mastering mathematics for future ML research
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙ Tech Stack
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/black/white" width="48" height="48" alt="Python" />
@@ -37,19 +37,19 @@ Currently focused on:
 
 ---
 
-### 🚀 Featured Projects
+### ➤ Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🛒 MagicHerbs Bot</h3>
+      <h3 align="center">⌘ MagicHerbs Bot</h3>
       <p align="center">A full-stack e-commerce Telegram Mini App for a natural supplements brand — catalog, orders, and payments.</p>
       <p align="center">
         <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎼 Voice Spectrogram Research</h3>
+      <h3 align="center">♫ Voice Spectrogram Research</h3>
       <p align="center">A research-driven bot that analyzes voice messages, detects silence, and visualizes vocal spectra for a vocal school.</p>
       <p align="center">
         <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge" /></a>
@@ -60,7 +60,7 @@ Currently focused on:
 
 ---
 
-### 🏆 Achievements
+### ★ Achievements
 
 - **First commercial client at age 13** — developed a Telegram catalog bot for a real business.
 - **Top 1 student** in Python course at Rubius Academy — [View certificate](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg)
@@ -68,7 +68,7 @@ Currently focused on:
 
 ---
 
-### 📊 GitHub Stats
+### ▤ GitHub Stats
 
 <p align="center">
   <picture>
@@ -93,7 +93,7 @@ Currently focused on:
 
 ---
 
-### 🐍 Contribution Snake
+### ∿ Contribution Snake
 
 <p align="center">
   <picture>
@@ -105,7 +105,7 @@ Currently focused on:
 
 ---
 
-### 🎯 Goals
+### ◎ Goals
 
 - Graduate from NSU (Novosibirsk State University) with a degree in Applied Mathematics and Computer Science
 - Get accepted to a PhD program in the USA (AI/ML)
@@ -113,7 +113,7 @@ Currently focused on:
 
 ---
 
-### 📫 Contact Me
+### ✉ Contact Me
 
 <p align="center">
   <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-@LMDigital1-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
