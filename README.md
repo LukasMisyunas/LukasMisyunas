@@ -1,42 +1,47 @@
-Hi, I'm Lukas 👋
+## Hi, I'm Lukas 👋
 
 I'm a 13-year-old Python developer from Tomsk, Russia.
 My goal is to become an ML/AI engineer and pursue a PhD in the United States.
 
------------------------------------------------
+---
 
 ## 🛠️ Skills
 
-- **Languages:** Python, SQL
-- **Libraries:** Telegram Bot API, SQLite, requests
-- **Tools:** Git, GitHub, VS Code
+- **Language:** Python 3.11+, Html/Css/JavaScript
+- **Framework:** aiogram 3.x (async Telegram Bot)
+- **Web:** aiohttp (WebApp + webhooks for payments)
+- **Database:** SQLite
+- **Security:** HMAC-SHA256 (Telegram initData validation)
+- **Other:** python-dotenv, logging, uuid
 
 ---
-🚀 Projects
+## 🚀 Projects
 
-🛒 Telegram Catalog Bot
-A Telegram bot for a client that allows users to browse products, search, and place orders.
+🛒 Telegram Catalog Bot "MagicHerbs"
+MagicHerbs — Telegram Mini App & E-Commerce Bot
+A full-stack e-commerce solution for a natural supplements brand, built as a Telegram Mini App with an integrated Telegram bot for catalog browsing, order placement, and payment processing.
+
 **Stack:** Python, Telegram Bot API, SQLite
 
-[View project](ссылка_на_репозиторий)
+[View project](link)
+## 🎼 Voice Spectrogram Research
+A research-driven Telegram bot that analyzes voice messages, detects silence, visualizes vocal spectra, and delivers personalized vocal feedback — built for a real vocal school in Tomsk "Solo by Vocal Work"
 
-🤖 Quadratic Equation Solver
-A Python bot that solves quadratic equations and plots the graph.
-**Stack:** Python, matplotlib
-
-[View project](ссылка_на_репозиторий)
+[View project](link)
 
 ---
 
 🎯 Goals
 
-- Graduate from NSU (Novosibirsk State University) with a degree in Applied Mathematics and Computer Science
-- Get accepted to a PhD program in the USA (AI/ML)
-- Work remotely as an ML engineer
+- First commercial client at age 13
+- [View project](link)
+- Completed a 9-month course Rubius
+- [View sertification]([link](https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg))
 
 ---
 
 📫 Contact Me
 
-- **Telegram:** @твой_ник
-- **Email:** @email.com
+- **Telegram:** @LMDigital1
+- **Email:** freticx@email.com
+- **Phone number:** 8(923)435-44-74
