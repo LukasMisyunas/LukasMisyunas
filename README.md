@@ -31,7 +31,7 @@ A research-driven Telegram bot that analyzes voice messages, detects silence, vi
 
 ---
 
-🎯 Goals
+## 🎯 Goals
 
 - First commercial client at age 13
 - [View project](link)
@@ -40,7 +40,7 @@ A research-driven Telegram bot that analyzes voice messages, detects silence, vi
 
 ---
 
-📫 Contact Me
+## 📫 Contact Me
 
 - **Telegram:** @LMDigital1
 - **Email:** freticx@email.com
