@@ -1,118 +1,154 @@
-<h1 align="center">Lukas Misyunas</h1>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lukas Misyunas — Python Developer</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+    .card {
+      max-width: 800px;
+      width: 100%;
+      background: rgba(255,255,255,0.05);
+      backdrop-filter: blur(20px);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 24px;
+      padding: 48px;
+      text-align: center;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+    }
+    h1 {
+      font-size: 42px;
+      margin-bottom: 12px;
+      background: linear-gradient(90deg, #2E9EF7, #6A11CB);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .subtitle {
+      font-size: 18px;
+      color: #9aa4b2;
+      margin-bottom: 32px;
+    }
+    .links {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 40px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 24px;
+      border-radius: 12px;
+      text-decoration: none;
+      color: #fff;
+      font-weight: 600;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .btn:hover { transform: translateY(-3px); box-shadow: 0 10px 25px rgba(0,0,0,0.4); }
+    .btn-tg { background: #2CA5E0; }
+    .btn-mail { background: #D14836; }
+    .section {
+      text-align: left;
+      margin-bottom: 32px;
+    }
+    .section h2 {
+      font-size: 22px;
+      margin-bottom: 16px;
+      color: #2E9EF7;
+    }
+    ul { list-style: none; }
+    ul li {
+      padding: 8px 0 8px 24px;
+      position: relative;
+      color: #c9d1d9;
+    }
+    ul li::before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      color: #6A11CB;
+    }
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .tag {
+      background: rgba(46,158,247,0.15);
+      border: 1px solid rgba(46,158,247,0.4);
+      color: #6ec1ff;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 14px;
+    }
+    .footer {
+      margin-top: 32px;
+      padding-top: 24px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      color: #6e7681;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Lukas Misyunas</h1>
+    <p class="subtitle">Python Developer · Future ML Engineer · 13 y.o.</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Python+Developer;Future+ML+Engineer;Backend+Enthusiast;13+years+old" alt="Typing SVG" />
-</p>
+    <div class="links">
+      <a class="btn btn-tg" href="https://t.me/LMDigital1" target="_blank">✈️ Telegram</a>
+      <a class="btn btn-mail" href="mailto:lukas.misyunas@gmail.com">✉️ Email</a>
+    </div>
 
-<p align="center">
-  <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-  <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-</p>
+    <div class="section">
+      <h2>👋 About Me</h2>
+      <ul>
+        <li>🔭 Работаю над backend-проектами на Python</li>
+        <li>🌱 Изучаю Machine Learning и FastAPI</li>
+        <li>🎯 Цель: стать ML-инженером</li>
+      </ul>
+    </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=120&section=header" width="100%" />
+    <div class="section">
+      <h2>🛠️ Tech Stack</h2>
+      <div class="tags">
+        <span class="tag">Python</span>
+        <span class="tag">Git</span>
+        <span class="tag">GitHub</span>
+        <span class="tag">Linux</span>
+        <span class="tag">SQL</span>
+        <span class="tag">FastAPI</span>
+        <span class="tag">NumPy</span>
+        <span class="tag">Pandas</span>
+      </div>
+    </div>
 
-<img src="./assets/divider.svg" width="100%" height="2" />
+    <div class="section">
+      <h2>📚 Currently Learning</h2>
+      <div class="tags">
+        <span class="tag">Machine Learning</span>
+        <span class="tag">PyTorch</span>
+        <span class="tag">Docker</span>
+      </div>
+    </div>
 
-<h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/user.png" width="20" height="20" alt="" />
-  About Me
-</h3>
-
-<p align="center">I'm a <b>13-year-old Python developer</b> from Tomsk, Russia. My goal is to become an <b>ML/AI engineer</b> and pursue a <b>PhD in the USA</b>.</p>
-
-<p align="center">Currently focused on:</p>
-<p align="center">
-  — Deepening my Python skills (async, algorithms, backend)<br/>
-  — Building real projects for clients<br/>
-  — Mastering mathematics for future ML research
-</p>
-
-<img src="./assets/divider.svg" width="100%" height="2" />
-
-<h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/source-code.png" width="20" height="20" alt="" />
-  Tech Stack
-</h3>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="48" height="48" alt="Python" />
-  <img src="https://cdn.simpleicons.org/git/FFFFFF" width="48" height="48" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="48" height="48" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css/FFFFFF" width="48" height="48" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/sqlite/FFFFFF" width="48" height="48" alt="SQLite" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/FFFFFF" width="48" height="48" alt="VS Code" />
-</p>
-
-<img src="./assets/divider.svg" width="100%" height="2" />
-
-<h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/folder-invoices.png" width="20" height="20" alt="" />
-  Featured Projects
-</h3>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h4 align="center">MagicHerbs Bot</h4>
-      <p align="center">A full-stack e-commerce Telegram Mini App for a natural supplements brand — catalog, orders, and payments.</p>
-      <p align="center">
-        <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logoColor=black" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">Voice Spectrogram Research</h4>
-      <p align="center">A research-driven bot that analyzes voice messages, detects silence, and visualizes vocal spectra for a vocal school.</p>
-      <p align="center">
-        <a href="ссылка_на_репозиторий"><img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logoColor=black" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" height="2" />
-
-<h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/trophy.png" width="20" height="20" alt="" />
-  Achievements
-</h3>
-
-<p align="center"><b>First commercial client at age 13</b> — developed a Telegram catalog bot for a real business.</p>
-<p align="center"><b>Top 1 student</b> in Python course at Rubius Academy — <a href="https://i.postimg.cc/GmZLGpDy/photo-5282946990155177730-y.jpg">View certificate</a></p>
-<p align="center"><b>Completed a 9-month Python Pro course</b> at Rubius Academy with a final project.</p>
-
-<img src="./assets/divider.svg" width="100%" height="2" />
-
-<h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/target.png" width="20" height="20" alt="" />
-  Goals
-</h3>
-
-<p align="center">Graduate from NSU (Novosibirsk State University) with a degree in Applied Mathematics and Computer Science</p>
-<p align="center">Get accepted to a PhD program in the USA (AI/ML)</p>
-<p align="center">Work remotely as an ML engineer</p>
-
-<img src="./assets/divider.svg" width="100%" height="2" />
-
-<h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/mail.png" width="20" height="20" alt="" />
-  Contact Me
-</h3>
-
-<p align="center">
-  <a href="https://t.me/LMDigital1"><img src="https://img.shields.io/badge/Telegram-@LMDigital1-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-  <a href="mailto:lukas.misyunas@gmail.com"><img src="https://img.shields.io/badge/Gmail-lukas.misyunas@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-</p>
-
-<img src="./assets/divider.svg" width="100%" height="2" />
-
-<p align="center">
-  <i>"Concentration and the ability to cut out unnecessary noise are critically important for achieving outstanding results and creativity." — Pavel Durov</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LukasMisyunas&label=Profile%20views&color=FFFFFF&style=flat" alt="Profile views" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=120&section=footer" width="100%" />
+    <div class="footer">
+      ⭐️ Keep coding, keep growing!
+    </div>
+  </div>
+</body>
+</html>
