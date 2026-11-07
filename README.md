@@ -17,7 +17,7 @@
   About Me
 </h2>
 
-<p align="center">I'm a <b>13-year-old Python developer</b> from Tomsk, Russia.<br/>
+<p align="center">I'm a <b>14-year-old Python developer</b> from Tomsk, Russia.<br/>
 My goal is to become an <b>ML/AI engineer</b> and pursue a <b>PhD in the USA</b>.</p>
 
 <p align="center">
